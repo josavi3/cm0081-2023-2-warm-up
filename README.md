@@ -10,4 +10,4 @@ Windows 10
 9.2.8
 
 ## QuickCheck Library Version
-3.6.3.0
+cabal 3.6.3.0
